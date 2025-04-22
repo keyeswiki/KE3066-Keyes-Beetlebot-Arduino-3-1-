@@ -1,0 +1,74 @@
+足球门安装步骤
+==============
+
+安装所需零件
+------------
+
+|img|
+
+--------------
+
+安装
+
+|image1|
+
+--------------
+
+完成
+
+|image2|
+
+--------------
+
+.. _安装所需零件-1:
+
+安装所需零件
+------------
+
+|image3|
+
+--------------
+
+安装
+
+|image4|
+
+--------------
+
+完成
+
+|image5|
+
+--------------
+
+.. _安装所需零件-2:
+
+安装所需零件
+------------
+
+|image6|
+
+--------------
+
+安装
+
+|image7|
+
+--------------
+
+完成
+
+![
+
+](img/q9.png)
+
+--------------
+
+.. |img| image:: img/0fc16ff134aa3503319d4101362338d8.png
+.. |image1| image:: img/1bd86df44aba070fea465a1da26df9e9.png
+.. |image2| image:: img/f3749804b3ac033cfdd7b4423ddea660.png
+.. |image3| image:: img/8d3f4c81812931c8cb3140c5fc33aa1a.png
+.. |image4| image:: img/dcc81f3f50258615595745676921b34c.png
+.. |image5| image:: img/567e873c86303e9e7ef0f6c919ae8fac.png
+.. |image6| image:: img/99d485c0ce81fe195bd9d4282403b8f1.png
+.. |image7| image:: img/5d749f5431468ffc7be947dfafd68223.png
